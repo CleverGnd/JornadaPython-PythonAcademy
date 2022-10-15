@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Módulo 04 - Aula 05">
-      <change afterPath="$PROJECT_DIR$/Módulo05/Numéricos-Aula01.py" afterDir="false" />
+    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Módulo 05 - Aula 01">
+      <change afterPath="$PROJECT_DIR$/Módulo05/Numéricos-Aula02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="D:\Jornada Python - Python Academy - 2022\JornadaPython-PythonAcademy\Módulo04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Numéricos-Aula01">
+  <component name="RunManager" selected="Python.Numéricos-Aula02">
     <configuration name="Numéricos-Aula01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JornadaPython-PythonAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +59,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Módulo05/Numéricos-Aula01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Numéricos-Aula02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JornadaPython-PythonAcademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Módulo05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Módulo05/Numéricos-Aula02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,10 +136,12 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Numéricos-Aula01" />
+      <item itemvalue="Python.Numéricos-Aula02" />
       <item itemvalue="Python.Strings-Aula05" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Numéricos-Aula02" />
         <item itemvalue="Python.Numéricos-Aula01" />
         <item itemvalue="Python.Strings-Aula05" />
       </list>
@@ -136,7 +160,7 @@
       <workItem from="1663866451795" duration="2855000" />
       <workItem from="1665448147492" duration="28000" />
       <workItem from="1665659172152" duration="290000" />
-      <workItem from="1665856413699" duration="2450000" />
+      <workItem from="1665856413699" duration="3394000" />
     </task>
     <task id="LOCAL-00001" summary="Módulo 02 - Concluído">
       <created>1663639932559</created>
@@ -215,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665858182052</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Módulo 05 - Aula 01">
+      <created>1665860801690</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665860801690</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,10 +275,13 @@
     <MESSAGE value="Módulo 04 - Aula 04" />
     <MESSAGE value="." />
     <MESSAGE value="Módulo 04 - Aula 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulo 04 - Aula 05" />
+    <MESSAGE value="Módulo 05 - Aula 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Módulo 05 - Aula 01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Numéricos_Aula02.coverage" NAME="Numéricos-Aula02 Coverage Results" MODIFIED="1665861528869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo05" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Strings_Aula05.coverage" NAME="Strings-Aula05 Coverage Results" MODIFIED="1665858094043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo04" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$main.coverage" NAME="main Coverage Results" MODIFIED="1663868699984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo04" />
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Numéricos_Aula01.coverage" NAME="Numéricos-Aula01 Coverage Results" MODIFIED="1665860685832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo05" />
   </component>
 </project>
