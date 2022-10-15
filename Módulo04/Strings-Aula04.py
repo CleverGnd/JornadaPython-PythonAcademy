@@ -19,4 +19,5 @@ print('    Te;x;;to       '.strip().replace(';', '').center(25, '*').upper())
 # Tamanho de Strings
 string_extensa = 'Essa é uma string extensa. Como faremos ' \
                  'para saber seu tamanho?'
+
 print(len(string_extensa))
