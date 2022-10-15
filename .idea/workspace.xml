@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Jornada Python">
+      <change beforePath="$PROJECT_DIR$/Módulo04/Strings-Aula04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Módulo04/Strings-Aula04.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F0nz19Yc7TFLCsktNBq4tSYEeL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Jornada Python - Python Academy - 2022/JornadaPython-PythonAcademy/Módulo04",
+    "settings.editor.selected.configurable": "proofread"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Jornada Python - Python Academy - 2022\JornadaPython-PythonAcademy\Módulo04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Strings-Aula05">
+    <configuration name="Strings-Aula05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JornadaPython-PythonAcademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Módulo04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Módulo04/Strings-Aula05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="JornadaPython-PythonAcademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Jornada Python - Python Academy - 2022\JornadaPython-PythonAcademy\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Módulo04" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Módulo04/Strings-Aula04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Strings-Aula05" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Strings-Aula05" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="" />
+      <created>1663638127513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663638127513</updated>
+      <workItem from="1663638129881" duration="2425000" />
+      <workItem from="1663728276426" duration="1414000" />
+      <workItem from="1663866451795" duration="2855000" />
+      <workItem from="1665448147492" duration="28000" />
+      <workItem from="1665659172152" duration="290000" />
+      <workItem from="1665856413699" duration="1452000" />
+    </task>
+    <task id="LOCAL-00001" summary="Módulo 02 - Concluído">
+      <created>1663639932559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663639932559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Módulo 03 - Concluído">
+      <created>1663729094474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663729094474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Módulo 03 - Aula 01">
+      <created>1663867207802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663867207802</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Módulo 03 - Aula 02">
+      <created>1663867906474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663867906474</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Módulo 03 - Aula 03">
+      <created>1663868371322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663868371322</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Módulo 03 - Aula 04">
+      <created>1665857738800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665857738801</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Módulo 03 - Aula 05">
+      <created>1665857746149</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665857746149</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Jornada Python">
+      <created>1665857827856</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665857827856</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Módulo 02 - Concluído" />
+    <MESSAGE value="Módulo 03 - Concluído" />
+    <MESSAGE value="Módulo 03 - Aula 01" />
+    <MESSAGE value="Módulo 03 - Aula 02" />
+    <MESSAGE value="Módulo 03 - Aula 03" />
+    <MESSAGE value="Módulo 03 - Aula 04" />
+    <MESSAGE value="Módulo 03 - Aula 05" />
+    <MESSAGE value="Jornada Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jornada Python" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Strings_Aula05.coverage" NAME="Strings-Aula05 Coverage Results" MODIFIED="1665857573569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo04" />
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$main.coverage" NAME="main Coverage Results" MODIFIED="1663868699984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo04" />
+  </component>
+</project>
