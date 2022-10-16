@@ -12,7 +12,6 @@ resultado = int(numero) ** int(expoente)
 # Saída
 print(f' O resultado de {numero} elevado à {expoente} é {resultado}.')
 
-
 nome = input('Qual o seu nome? ')
 idade = input('Qual a sua idade? ')
 altura = input('Qual a sua altura? ')
