@@ -1,12 +1,24 @@
-numero_1 = input('Digite o primeiro número: ')
-numero_2 = input('Digite o segundo número: ')
+# nome = input('Qual é o seu nome: ')
+#
+# print(nome)
 
-print('Operações disponíveis:\n\t+ para Adição\n\t- para Subtração\n\t* para Multiplicação\n\t/ para Divisão')
+# Entrada
+numero = input('Digite um número: ')
+expoente = input('Digite um expoente: ')
 
-operacao = input('Digite a operação: ')
+# Processamento
+resultado = int(numero) ** int(expoente)
 
-equacao = f'{numero_1} {operacao} {numero_2}'
+# Saída
+print(f' O resultado de {numero} elevado à {expoente} é {resultado}.')
 
-resultado = eval(equacao)
+nome = input('Qual o seu nome? ')
+idade = input('Qual a sua idade? ')
+altura = input('Qual a sua altura? ')
 
-print(f'{"*" * 20}\nResultado: {resultado}\n{"*" * 20}')
+print('Os dados inseridos foram: ')
+print(
+    f'\tNome: {nome}\n'
+    f'\tIdade: {idade} anos\n'
+    f'\tAltura: {float(altura):.2f}'
+)
