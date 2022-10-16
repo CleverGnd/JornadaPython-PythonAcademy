@@ -1,26 +1,12 @@
-idade = 35
-# texto = 'Parabéns João pelos seus ' + idade + ' anos de idade!'
-# print(texto)
-# Erro, não conseguimos concatenar um int dentro de uma string
+numero_1 = input('Digite o primeiro número: ')
+numero_2 = input('Digite o segundo número: ')
 
-texto = 'Parabéns João pelos seus ' + str(idade) + ' anos de idade!'
+print('Operações disponíveis:\n\t+ para Adição\n\t- para Subtração\n\t* para Multiplicação\n\t/ para Divisão')
 
-print(texto)
+operacao = input('Digite a operação: ')
 
-pontuacao_str = '10'
-pontuacao_int = int(pontuacao_str)
+equacao = f'{numero_1} {operacao} {numero_2}'
 
-print(pontuacao_int)
-print(f'Tipo: {type(pontuacao_int)}')
+resultado = eval(equacao)
 
-pontuacao_str = '5.5' # NÃO pode usar virgula ","
-pontuacao_float = float(pontuacao_str)
-
-print(pontuacao_float)
-print(f'Tipo: {type(pontuacao_float)}')
-
-# print(int('5.5')) # Erro não consegue converter float para int
-
-print(float('1')) # Conseguimos converter um int para float
-
-
+print(f'{"*" * 20}\nResultado: {resultado}\n{"*" * 20}')
