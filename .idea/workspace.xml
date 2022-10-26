@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Módulo 09 - Aula 03">
-      <change afterPath="$PROJECT_DIR$/Módulo09/Dictionaries-Aula04.py" afterDir="false" />
+    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Módulo 09 - Aula 04">
+      <change afterPath="$PROJECT_DIR$/Módulo09/Dictionaries-Aula05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="D:\Jornada Python - Python Academy - 2022\JornadaPython-PythonAcademy\Módulo05" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dictionaries-Aula04">
+  <component name="RunManager" selected="Python.Dictionaries-Aula05">
     <configuration name="Dictionaries-Aula02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JornadaPython-PythonAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List-Aula04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Dictionaries-Aula05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JornadaPython-PythonAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Módulo08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Módulo09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Módulo08/List-Aula04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Módulo09/Dictionaries-Aula05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,17 +184,17 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Dictionaries-Aula03" />
       <item itemvalue="Python.Dictionaries-Aula04" />
+      <item itemvalue="Python.Dictionaries-Aula05" />
       <item itemvalue="Python.Dictionaries-Aula02" />
       <item itemvalue="Python.List-Aula05" />
-      <item itemvalue="Python.List-Aula04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dictionaries-Aula05" />
         <item itemvalue="Python.Dictionaries-Aula04" />
         <item itemvalue="Python.Dictionaries-Aula03" />
         <item itemvalue="Python.Dictionaries-Aula02" />
         <item itemvalue="Python.List-Aula05" />
-        <item itemvalue="Python.List-Aula04" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,7 @@
       <workItem from="1666147140716" duration="1648000" />
       <workItem from="1666785807779" duration="33000" />
       <workItem from="1666785848870" duration="324000" />
-      <workItem from="1666786183808" duration="2305000" />
+      <workItem from="1666786183808" duration="3215000" />
     </task>
     <task id="LOCAL-00001" summary="Módulo 02 - Concluído">
       <created>1663639932559</created>
@@ -452,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666787284025</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Módulo 09 - Aula 04">
+      <created>1666788710107</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1666788710107</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,7 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Módulo 03 - Aula 03" />
     <MESSAGE value="Módulo 03 - Aula 04" />
     <MESSAGE value="Módulo 03 - Aula 05" />
     <MESSAGE value="Jornada Python" />
@@ -495,7 +501,8 @@
     <MESSAGE value="Módulo 08 - Concluído" />
     <MESSAGE value="Módulo 09 - Aula 02" />
     <MESSAGE value="Módulo 09 - Aula 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulo 09 - Aula 03" />
+    <MESSAGE value="Módulo 09 - Aula 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Módulo 09 - Aula 04" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Dictionaries_Aula03.coverage" NAME="Dictionaries-Aula03 Coverage Results" MODIFIED="1666787248064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo09" />
@@ -513,9 +520,10 @@
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Input_Aula01.coverage" NAME="Input-Aula01 Coverage Results" MODIFIED="1665950682069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo06" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$ControlStructures_Aula01.coverage" NAME="ControlStructures-Aula01 Coverage Results" MODIFIED="1665970650668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo07" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$List_Aula01.coverage" NAME="List-Aula01 Coverage Results" MODIFIED="1666059014092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo08" />
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Dictionaries_Aula05.coverage" NAME="Dictionaries-Aula05 Coverage Results" MODIFIED="1666789450787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo09" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Numéricos_Aula03.coverage" NAME="Numéricos-Aula03 Coverage Results" MODIFIED="1665949980751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo05" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$ControlStructures_Aula04.coverage" NAME="ControlStructures-Aula04 Coverage Results" MODIFIED="1665973795341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo07" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$List_Aula04.coverage" NAME="List-Aula04 Coverage Results" MODIFIED="1666060906396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo08" />
-    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Dictionaries_Aula04.coverage" NAME="Dictionaries-Aula04 Coverage Results" MODIFIED="1666788646955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo09" />
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Dictionaries_Aula04.coverage" NAME="Dictionaries-Aula04 Coverage Results" MODIFIED="1666788691397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo09" />
   </component>
 </project>
