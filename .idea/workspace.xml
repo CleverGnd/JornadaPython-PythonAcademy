@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Módulo 12 - Aula 02">
-      <change afterPath="$PROJECT_DIR$/Módulo12/ExceptionHandling-Aula03.py" afterDir="false" />
+    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Módulo 12 - Aula 03">
+      <change afterPath="$PROJECT_DIR$/Módulo12/ExceptionHandling-Aula04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="D:\Jornada Python - Python Academy - 2022\JornadaPython-PythonAcademy\Módulo08" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ExceptionHandling-Aula03">
+  <component name="RunManager" selected="Python.ExceptionHandling-Aula04">
     <configuration name="ExceptionHandling-Aula02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JornadaPython-PythonAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Functions-Aula04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionHandling-Aula04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JornadaPython-PythonAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +100,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Módulo11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Módulo12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Módulo11/Functions-Aula04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Módulo12/ExceptionHandling-Aula04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,17 +184,17 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.ExceptionHandling-Aula02" />
       <item itemvalue="Python.ExceptionHandling-Aula03" />
-      <item itemvalue="Python.Functions-Aula04" />
+      <item itemvalue="Python.ExceptionHandling-Aula04" />
       <item itemvalue="Python.Functions-Aula05" />
       <item itemvalue="Python.Functions-Aula06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ExceptionHandling-Aula04" />
         <item itemvalue="Python.ExceptionHandling-Aula03" />
         <item itemvalue="Python.ExceptionHandling-Aula02" />
         <item itemvalue="Python.Functions-Aula06" />
         <item itemvalue="Python.Functions-Aula05" />
-        <item itemvalue="Python.Functions-Aula04" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +222,7 @@
       <workItem from="1666786183808" duration="3466000" />
       <workItem from="1666829854876" duration="5625000" />
       <workItem from="1666891083488" duration="7581000" />
-      <workItem from="1667498909670" duration="1302000" />
+      <workItem from="1667498909670" duration="2917000" />
     </task>
     <task id="LOCAL-00001" summary="Módulo 02 - Concluído">
       <created>1663639932559</created>
@@ -532,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667499450658</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Módulo 12 - Aula 03">
+      <created>1667500478607</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1667500478607</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Módulo 06 - Aula 01" />
     <MESSAGE value="Módulo 05 - Aula 02" />
     <MESSAGE value="Módulo 07 - Aula 01" />
     <MESSAGE value="Módulo 07 - Aula 02" />
@@ -575,13 +581,14 @@
     <MESSAGE value="Módulo 11 - Aula 05" />
     <MESSAGE value="Módulo 11 - Concluído" />
     <MESSAGE value="Módulo 12 - Aula 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulo 12 - Aula 02" />
+    <MESSAGE value="Módulo 12 - Aula 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Módulo 12 - Aula 03" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Dictionaries_Aula03.coverage" NAME="Dictionaries-Aula03 Coverage Results" MODIFIED="1666787248064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo09" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Numéricos_Aula02.coverage" NAME="Numéricos-Aula02 Coverage Results" MODIFIED="1665952155625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo05" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$List_Aula02.coverage" NAME="List-Aula02 Coverage Results" MODIFIED="1666059322196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo08" />
-    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$ExceptionHandling_Aula03.coverage" NAME="ExceptionHandling-Aula03 Coverage Results" MODIFIED="1667500103319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo12" />
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$ExceptionHandling_Aula03.coverage" NAME="ExceptionHandling-Aula03 Coverage Results" MODIFIED="1667500446411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo12" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$List_Aula05.coverage" NAME="List-Aula05 Coverage Results" MODIFIED="1666786097640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo08" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$ControlStructures_Aula03.coverage" NAME="ControlStructures-Aula03 Coverage Results" MODIFIED="1665972576683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo07" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$main.coverage" NAME="main Coverage Results" MODIFIED="1663868699984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo04" />
@@ -595,6 +602,7 @@
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Functions_Aula05.coverage" NAME="Functions-Aula05 Coverage Results" MODIFIED="1666897591575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo11" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Functions_Aula02.coverage" NAME="Functions-Aula02 Coverage Results" MODIFIED="1666893300699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo11" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Strings_Aula05.coverage" NAME="Strings-Aula05 Coverage Results" MODIFIED="1665858094043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo04" />
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$ExceptionHandling_Aula04.coverage" NAME="ExceptionHandling-Aula04 Coverage Results" MODIFIED="1667501738225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo12" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Numéricos_Aula01.coverage" NAME="Numéricos-Aula01 Coverage Results" MODIFIED="1665860685832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo05" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$List_Aula03.coverage" NAME="List-Aula03 Coverage Results" MODIFIED="1666060044109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo08" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$ExceptionHandling_Aula01.coverage" NAME="ExceptionHandling-Aula01 Coverage Results" MODIFIED="1667499333986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo12" />
