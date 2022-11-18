@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Módulo 16 - Aula 03">
-      <change afterPath="$PROJECT_DIR$/Modulo16/Object_Oriented_Programming_Aula04.py" afterDir="false" />
+    <list default="true" id="53791ce5-fde8-45aa-be84-653b7e00656e" name="Changes" comment="Módulo 16 - Aula 04">
       <change afterPath="$PROJECT_DIR$/Modulo16/Object_Oriented_Programming_Aula05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,29 +53,7 @@
       <recent name="D:\Jornada Python - Python Academy - 2022\JornadaPython-PythonAcademy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Object_Oriented_Programming_Aula04">
-    <configuration name="FileHandling-Aula01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="JornadaPython-PythonAcademy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modulo13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Jornada Python - Python Academy - 2022\JornadaPython-PythonAcademy\Modulo13\FileHandling-Aula01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Object_Oriented_Programming_Aula05">
     <configuration name="Modules_pip_Aula03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JornadaPython-PythonAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,6 +142,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Object_Oriented_Programming_Aula05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JornadaPython-PythonAcademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modulo16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modulo16/Object_Oriented_Programming_Aula05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python">
       <module name="JornadaPython-PythonAcademy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,17 +190,17 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Object_Oriented_Programming_Aula03" />
       <item itemvalue="Python.Object_Oriented_Programming_Aula04" />
-      <item itemvalue="Python.FileHandling-Aula01" />
+      <item itemvalue="Python.Object_Oriented_Programming_Aula05" />
       <item itemvalue="Python.Modules_pip_Aula03" />
       <item itemvalue="Python.Modules_pip_Aula04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Object_Oriented_Programming_Aula05" />
         <item itemvalue="Python.Object_Oriented_Programming_Aula04" />
         <item itemvalue="Python.Object_Oriented_Programming_Aula03" />
         <item itemvalue="Python.Modules_pip_Aula04" />
         <item itemvalue="Python.Modules_pip_Aula03" />
-        <item itemvalue="Python.FileHandling-Aula01" />
       </list>
     </recent_temporary>
   </component>
@@ -234,14 +233,7 @@
       <workItem from="1667860655067" duration="95000" />
       <workItem from="1668738559015" duration="1569000" />
       <workItem from="1668773329878" duration="4466000" />
-      <workItem from="1668786916423" duration="6071000" />
-    </task>
-    <task id="LOCAL-00005" summary="Módulo 03 - Aula 03">
-      <created>1663868371322</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1663868371322</updated>
+      <workItem from="1668786916423" duration="7587000" />
     </task>
     <task id="LOCAL-00006" summary="Módulo 03 - Aula 04">
       <created>1665857738800</created>
@@ -579,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668789951853</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Módulo 16 - Aula 04">
+      <created>1668796723437</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1668796723437</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +597,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Módulo 08 - Aula 01" />
     <MESSAGE value="Módulo 08 - Aula 02" />
     <MESSAGE value="Módulo 08 - Aula 03" />
     <MESSAGE value="Módulo 08 - Aula 04" />
@@ -623,10 +621,12 @@
     <MESSAGE value="Módulo 14 - Aula 03" />
     <MESSAGE value="Módulo 14 - Aula 04" />
     <MESSAGE value="Módulo 16 - Aula 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulo 16 - Aula 03" />
+    <MESSAGE value="Módulo 16 - Aula 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Módulo 16 - Aula 04" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Dictionaries_Aula03.coverage" NAME="Dictionaries-Aula03 Coverage Results" MODIFIED="1666787248064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo09" />
+    <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Object_Oriented_Programming_Aula05.coverage" NAME="Object_Oriented_Programming_Aula05 Coverage Results" MODIFIED="1668798159628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modulo16" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Numéricos_Aula02.coverage" NAME="Numéricos-Aula02 Coverage Results" MODIFIED="1665952155625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo05" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$Strings_Aula05.coverage" NAME="Strings-Aula05 Coverage Results" MODIFIED="1665858094043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo04" />
     <SUITE FILE_PATH="coverage/JornadaPython_PythonAcademy$ControlStructures_Aula02.coverage" NAME="ControlStructures-Aula02 Coverage Results" MODIFIED="1665972242109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Módulo07" />
